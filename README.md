@@ -1,6 +1,6 @@
 # Hackathon Code of Conduct
 
-We, the organizers of [Star Hack Alliance](https://event.starhack.tech), are committed to providing a welcoming and inclusive environment for all participants, regardless of race, ethnicity, gender identity, sexual orientation, ability, age, religion, nationality, or any other characteristic.
+We, the organizers of [Star Hack Alliance](https://event.starhack.tech), are committed to providing a welcoming and inclusive environment for all participants, regardless of race, ethnicity, gender identity, sexual orientation, ability, age, religion, nationality, or any other characteristic. 
 
 By participating in this hackathon, you agree to abide by the following code of conduct:
 
